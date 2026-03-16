@@ -1,6 +1,10 @@
+# Python 3.12.8 — ambiente: ml_01
 numpy
 pandas
 matplotlib
 seaborn
 scikit-learn
+scipy
+ydata-profiling
 jupyterlab
+kaggle
