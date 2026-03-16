@@ -1,4 +1,4 @@
-# Python 3.12.8 — ambiente: ml_01
+# Python 3.11.15 — ambiente: ml_01
 numpy
 pandas
 matplotlib
